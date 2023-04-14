@@ -20,9 +20,16 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.view.alwaysShowHeaderActions": true,
   "editor.rulers": [
-      100, 120
-  ]
+    100,
+    120
+  ],
   "Git Bash": {
     "source": "Git Bash"
+  },
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "path": "E:\\Git\\bin\\bash.exe"
+    },
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
-},
